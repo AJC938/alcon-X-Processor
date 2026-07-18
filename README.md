@@ -1,7 +1,7 @@
 # Falcon-X Processor
 
 <p align="center">
-  <img src="Images/Banner.png" alt="Falcon-X Processor Banner" width="100%">
+  <img src="Images/Benner.png" alt="Falcon-X Processor Banner" width="100%">
 </p>
 
 <h1 align="center">Falcon-X Processor</h1>
