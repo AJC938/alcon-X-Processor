@@ -1,7 +1,7 @@
 # Falcon-X Processor
 
 <p align="center">
-  <img src="Images/FalconX-Banner.svg" alt="Falcon-X Processor Banner" width="100%">
+  <img src="Images/FalconX-Banner-v2.svg" alt="Falcon-X Processor Banner" width="100%">
 </p>
 
 <p align="center">
